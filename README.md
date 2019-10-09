@@ -34,6 +34,10 @@ Each of the examples here run within the KEF framework. Also, each example needs
 - OMG_Emotion_Crossmodal.py: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - RAVDESS_CrossNetwork_MelSpectrum_Channel.py: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
+**Personalized Affective Memory**
+ - [Personalized Affective Memory Repository] - https://github.com/pablovin/P-AffMem
+ -
+
 
 
 **Trained Models**
@@ -51,12 +55,13 @@ Each of the examples here run within the KEF framework. Also, each example needs
 
 Follows the links for different corpora that I developed or was involved on the development. Most of the examples here make use of these corpora:
 
+- [OMG-Empathy Prediction](https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_empathy.html)
 - [OMG-Emotion Recognition](https://www2.informatik.uni-hamburg.de/wtm/omgchallenges/omg_emotion.html)
 - [Gesture Commands for Robot InTeraction (GRIT)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 - [NAO Camera hand posture Database (NCD)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 
 **Important references**
-
+- Barros, P., Parisi, G., & Wermter, S. (2019, May). [A Personalized Affective Memory Model for Improving Emotion Recognition] (http://proceedings.mlr.press/v97/barros19a.html). In International Conference on Machine Learning (pp. 485-494). 
  - Barros, P., Barakova, E., & Wermter, S. (2018). [A Deep Neural Model Of Emotion Appraisal](https://arxiv.org/abs/1808.00252). arXiv preprint arXiv:1808.00252.
  - Barros, P., & Wermter, S. (2016). [Developing crossmodal expression recognition based on a deep neural model](http://journals.sagepub.com/doi/abs/10.1177/1059712316664017). Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017
  - Barros, P., & Wermter, S. (2017, May). [A self-organizing model for affective memory. In Neural Networks (IJCNN)](https://www2.informatik.uni-hamburg.de/wtm/publications/2017/BW17/Barros-Affective_Memory_2017-Webpage.pdf), 2017 International Joint Conference on (pp. 31-38). IEEE.

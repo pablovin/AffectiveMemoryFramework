@@ -35,8 +35,8 @@ Each of the examples here run within the KEF framework. Also, each example needs
 - RAVDESS_CrossNetwork_MelSpectrum_Channel.py: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
 **Personalized Affective Memory**
- - [Personalized Affective Memory Repository] - https://github.com/pablovin/P-AffMem
- -
+ - Personalized Affective Memory Repository - https://github.com/pablovin/P-AffMem
+ - (Barros et al., 2019)
 
 
 

@@ -61,7 +61,7 @@ Follows the links for different corpora that I developed or was involved on the 
 - [NAO Camera hand posture Database (NCD)](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/research/corpora.html)
 
 **Important references**
-- Barros, P., Churamani, N., & Sciutti, A. (2020). [The FaceChannel: A Light-weight Deep Neural Network for Facial Expression Recognition] (https://arxiv.org/abs/2004.08195). arXiv preprint arXiv:2004.08195. 
+- Barros, P., Churamani, N., & Sciutti, A. (2020). [The FaceChannel: A Light-weight Deep Neural Network for Facial Expression Recognition](https://arxiv.org/abs/2004.08195). arXiv preprint arXiv:2004.08195. 
 - Barros, P., Parisi, G., & Wermter, S. (2019, May). [A Personalized Affective Memory Model for Improving Emotion Recognition.](http://proceedings.mlr.press/v97/barros19a.html). In International Conference on Machine Learning (pp. 485-494). 
  - Barros, P., Barakova, E., & Wermter, S. (2018). [A Deep Neural Model Of Emotion Appraisal](https://arxiv.org/abs/1808.00252). arXiv preprint arXiv:1808.00252.
  - Barros, P., & Wermter, S. (2016). [Developing crossmodal expression recognition based on a deep neural model](http://journals.sagepub.com/doi/abs/10.1177/1059712316664017). Adaptive behavior, 24(5), 373-396. http://journals.sagepub.com/doi/full/10.1177/1059712316664017

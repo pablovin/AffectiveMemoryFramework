@@ -84,5 +84,5 @@ All the examples in this repository are distributed under the Creative Commons C
 Pablo Barros - barros@informatik.uni-hamburg.de
 
 - [http://pablobarros.net](http://pablobarros.net)
-- [Uni Hamburg Webpage](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/barros.html)
+- [Twitter](https://twitter.com/PBarros_br)
 - [Google Scholar](https://scholar.google.com/citations?user=LU9tpkMAAAAJ)

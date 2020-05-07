@@ -167,7 +167,7 @@ class DataLoader_OMG_Face(IDataLoader.IDataLoader):
                                 dataX.append(dataPoint)
                                 dataLabels.append([float(arousal), float(valence)])
                             except:
-                                print "problem:",readFrom+"/"+imageName
+                                print ("problem:",readFrom+"/"+imageName)
 
                 rownum = rownum+1
         dataX = numpy.array(dataX)

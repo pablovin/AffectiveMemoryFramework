@@ -41,12 +41,11 @@ class modelLoader:
         self.loadModel()
 
 
-
     def loadModel(self):
 
 
         self._model = load_model(self.modelDictionary.modelDirectory,
-                                 custom_objects={'fbeta_score': metrics.fbeta_score, 'recall': metrics.recall, 'precision': metrics.precision, 'ccc': metrics.ccc})
+                                 custom_objects={'fbeta_score': metrics.fbeta_score, 'rmse': metrics.rmse,'recall': metrics.recall, 'precision': metrics.precision, 'ccc': metrics.ccc})
         self._model.summary()
 
 

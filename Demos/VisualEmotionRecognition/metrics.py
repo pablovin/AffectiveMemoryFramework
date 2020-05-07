@@ -79,3 +79,7 @@ def ccc(y_true, y_pred):
 
         ccc = tf.divide(numerator, denominator)
         return ccc
+
+def rmse(y_true, y_pred):
+    from keras import backend as K
+    return K.sqrt(K.mean(K.square(y_pred - y_true), axis=-1))

@@ -1,8 +1,6 @@
-This repository holds the models and solutions developed by Pablo Barros based on emotion recognition and learning.
+This repository holds some of the models and solutions developed by Pablo Barros based on affective recognition and learning.
 
-The KEF framework was developed to facilitate the planing and fast prototyping of different scientific experiments. All the examples in this repository use the KEF framework.
-
-
+##Individual Projects
 
 **Pre-requisites**
 
@@ -34,24 +32,25 @@ Each of the examples here run within the KEF framework. Also, each example needs
 - OMG_Emotion_Crossmodal.py: Cross Channel for the OMG-Emotion dataset (Barros et al., 2018)
 - RAVDESS_CrossNetwork_MelSpectrum_Channel.py: Cross Channel for the RAVDESS dataset (Barros et al., 2018)
 
-**Personalized Affective Memory**
- - Personalized Affective Memory Repository - https://github.com/pablovin/P-AffMem
- - (Barros et al., 2019)
-
-
-
 **Trained Models**
 
  Each of the examples has a pre-trained model associated with it. Please refer to the TrainedModels folder.
-
-
 
 **Ready-to-Run Demos**
 
  - [Visual Emotion Recognition](https://github.com/knowledgetechnologyuhh/EmotionRecognitionBarros/tree/master/Demos/VisualEmotionRecognition)
 
 
-**Datasets**
+##Associated Projects
+
+Besides the individual projects described here, I also developed other projects related to affective perceptiona and understanding:
+
+ - Affective Modelinf for Multiagent Learning (Barros et al., 2020) - https://github.com/pablovin/ChefsHatGYM
+ - Learning Personalized Affective Representation (Barros et al., 2019) - https://github.com/pablovin/P-AffMem
+ - Facial Expression Editing (Lindt et al., 2019) - https://github.com/pablovin/FaceEditing_ContinualGAN
+
+
+##Datasets
 
 Follows the links for different corpora that I developed or was involved on the development. Most of the examples here make use of these corpora:
 

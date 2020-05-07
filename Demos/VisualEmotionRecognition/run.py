@@ -37,7 +37,7 @@ imageProcessing = imageProcessingUtil.imageProcessingUtil(faceDetectionMaximumFr
 
 GUIController = GUIController.GUIController()
 
-cv2.namedWindow("Visual Emotion Recognition")
+#cv2.namedWindow("Visual Emotion Recognition")
 
 
 cap = cv2.VideoCapture(0)
@@ -49,7 +49,7 @@ if cap.isOpened():  # try to get the first frame
 else:
     rval = False
 
-print "Rval:", rval
+#print "Rval:", rval
 
 while(True):
     # Capture frame-by-frame
@@ -57,7 +57,7 @@ while(True):
         rval, frame = cap.read()
 
         facePoints, face = imageProcessing.detectFace(frame)
-        print "Print:", len(face)
+        #print "Print:", len(face)
 
 
         image = numpy.zeros((finalImageSize[1], finalImageSize[0], 3), numpy.uint8)
@@ -73,7 +73,7 @@ while(True):
 
             frame = GUIController.createDetectedFacGUI(frame,facePoints,modelCategorical.modelDictionary, categoricalRecognition)
             frame = GUIController.createDimensionalEmotionGUI(dimensionalRecognition, frame, categoricalRecognition, modelCategorical.modelDictionary)
-            frame =  GUIController.createCategoricalEmotionGUI(categoricalRecognition,frame,modelCategorical.modelDictionary, initialPosition=categoricalInitialPosition)
+            #frame =  GUIController.createCategoricalEmotionGUI(categoricalRecognition,frame,modelCategorical.modelDictionary, initialPosition=categoricalInitialPosition)
 
 
 

@@ -51,8 +51,8 @@ class GUIController:
         arousal = float(float(classificationReport[0][0][0]) * 100)
         valence = float(float(classificationReport[1][0][0]) * 100)
 
-        print "Arousal:", arousal
-        print "Valence:", valence
+        #print "Arousal:", arousal
+        #print "Valence:", valence
 
         #arousal,valence
         cv2.circle(frame, (640+185+int(valence), 110+int(arousal)), 5, pointColor, -1)

@@ -81,7 +81,7 @@ All the examples in this repository are distributed under the Creative Commons C
 
 **Contact**
 
-Pablo Barros - barros@informatik.uni-hamburg.de
+Pablo Barros - pablo.alvesdebarros@iit.it
 
 - [http://pablobarros.net](http://pablobarros.net)
 - [Twitter](https://twitter.com/PBarros_br)
